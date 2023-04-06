@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>
-			AUTENTICANT AMB LDAP DE L'USUARI admin
+			LOGIN - PROJECTE LDAP
 		</title>
 	</head>
 	<body>
