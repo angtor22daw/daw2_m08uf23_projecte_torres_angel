@@ -3,6 +3,6 @@
   <name>autent</name>
     <summary>autenticació LDAP</summary>
     <version>
-        <release>1.1.5</release>
+        <release>1.2.6</release>
     </version>
     </package>

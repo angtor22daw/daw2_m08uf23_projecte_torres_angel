@@ -91,8 +91,9 @@ if ($_POST['uid']&& $_POST['ou'] && $_POST['uidNumber'] && $_POST['gidNumber'] &
 		telephoneNumber(telefon personal): <input type="text" name="telephoneNumber"><br>
 		title: <input type="text" name="title"><br>
 		description: <input type="text" name="description"><br>
-		<input type="submit"/>
-		<input type="reset"/>
+		<input type="submit" value="Crear Usuari"/>
+		<input type="reset"/><br><br>
+		<a href="http://zend-antope.fjeclot.net/autent/menu.php">Tornar a al menú</a>
 	</form>
 </body>
 </html>
