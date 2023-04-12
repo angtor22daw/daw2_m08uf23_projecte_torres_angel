@@ -34,7 +34,8 @@ MOSTRANT DADES D'USUARIS DE LA BASE DE DADES LDAP
 Unitat organitzativa: <input type="text" name="ou"><br>
 Usuari: <input type="text" name="usr"><br>
 <input type="submit"/>
-<input type="reset"/>
+<input type="reset"/><br>
+<a href="http://zend-antope.fjeclot.net/autent/menu.php">Tornar a al menú</a>
 </form>
 </body>
 </html>
